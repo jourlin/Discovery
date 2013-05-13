@@ -1,0 +1,4 @@
+<?
+require("param.inc.php");
+
+?>
